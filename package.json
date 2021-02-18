@@ -39,7 +39,7 @@
     ]
   },
   "repository": "git@github:acollierr17/typescript-npm-template",
-  "author": "acollierr17 <gamemaniac101@gmail.com>",
+  "author": "Anthony Collier <hello@acollier.dev>",
   "license": "MIT",
   "engines": {
     "node": ">=12.0.0",
